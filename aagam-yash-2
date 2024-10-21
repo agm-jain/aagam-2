@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main() {
-    float n;
+    int n;
     printf("Enter an integer: ");
     scanf("%d", &n);
 
